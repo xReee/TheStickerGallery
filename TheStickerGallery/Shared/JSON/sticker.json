@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Sad cat with a banana",
+		"emoji": "😔",
+        "use": "Quando estiver desapontado, ou na zoeira mesmo",
+		"summary": "Um gato decepcionado, abraçando uma banana. Pode ser usando tanto na zoeira quando em situações de real desapontamento",
+		"image": "sadcatbanana"
+	},
+    {
+        "title": "hehe",
+        "emoji": "😏",
+        "use": "Geralmente usado de forma irônica ou para fazer graça",
+        "summary": "Um gato safado expressando toda alegria de sua alma.",
+        "image": "hehecat"
+    },
+    {
+        "title": "Angry ratatouille",
+        "emoji": "😡",
+        "use": "Quando algo te revolta mais que o normal.",
+        "summary": "Um ratinho revoltado por que você discordou dele. Usado quando alguém faz algo contra sua vontade e você se chateia",
+        "image": "ratatouille"
+    },
+    {
+        "title": "Coronavírus me pegou",
+        "emoji": "🤧",
+        "use": "Ao ouvir mais noticias na tv sobre pessoas quebrando o isolamento social.",
+        "summary": "Ele achou que era rinite mas pegou covid porque não respeitou o isolamento social",
+        "image": "coronga"
+    },
+    {
+        "title": "#%#@%#@@",
+        "emoji": "🤬",
+        "use": "Quando estiver MUITO revoltado",
+        "summary": "esse gatinho parece fofo mas quando fica irritado sai de perto: MIAU MIAU MIAU MIAU",
+        "image": "miaumiau"
+    },
+    {
+        "title": "OPA",
+        "emoji": "😳",
+        "use": "Quando alguém notou que você esqueceu de algo ou que você fez algo errado",
+        "summary": "Um macaco claramente fazendo merda e tentando empurrar pra debaixo do tapete... será que alguém vai notar?",
+        "image": "macaco"
+    },
+    {
+        "title": "poker face",
+        "emoji": "😐",
+        "use": "Te pegaram, e agora?",
+        "summary": "A cara do cachorro depois de comer a sandália da dona, fingindo costume, nada aconteceu",
+        "image": "pokerface"
+    },
+    {
+        "title": "Formata meu pc?",
+        "emoji": "🤓",
+        "use": "Quando o dev tá trabalhando",
+        "summary": "Parace você quando senta no mac pra fazer aquele app que o professor mandou em swift...",
+        "image": "catnerd"
+    }
+]
